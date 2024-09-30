@@ -6,6 +6,8 @@ Keywords: Prayer Movement Detection, Smartband, Accelerometer, Recurrent Neural 
 
 ## Read full paper [here](https://digilib.uinsgd.ac.id/98494/)
 
+## A mobile app used for this model can be found [here](https://github.com/azliR/flutter_sholat_ml)
+
 ## Result
 Table 1. Comparison of the evaluation results of the BLSTM, LSTM, and GRU models with various window size (window size).
 
