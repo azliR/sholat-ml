@@ -57,8 +57,8 @@ The performance of the 89.53 KB GRU model surpasses that of the BLSTM and LSTM m
 Overall, this study successfully demonstrated the effectiveness of the RNN algorithm, particularly the GRU model, in detecting prayer movements from smartband accelerometer data. The application of Majority Voting post-processing with the right configuration, as well as the selection of the optimal window size, proved to be able to significantly improve the performance of the model. The relatively small but high-performance GRU model opens up opportunities for the development of smartband-based real-time applications.
 
 ## Demo
-![alt text](assets/demo-large-screen.png)
-|![alt text](assets/demo-6.png)|![alt text](assets/demo-1.png)
+![alt text](docs/assets/flutter_sholat_ml-0.webp)
+|![alt text](docs/assets/flutter_sholat_ml-1.webp)|![alt text](docs/assets/flutter_sholat_ml-2.webp)
 |--|--|
-|![alt text](assets/demo-2.png)|![alt text](assets/demo-3.png)|
-|![alt text](assets/demo-4.png)|![alt text](assets/demo-5.png)|
+|![alt text](docs/assets/flutter_sholat_ml-3.webp)|![alt text](docs/assets/flutter_sholat_ml-4.webp)|
+|![alt text](docs/assets/flutter_sholat_ml-5.webp)|![alt text](docs/assets/flutter_sholat_ml-6.webp)|
